@@ -1,5 +1,5 @@
 // CODSOFT Java Internship
-// ATM Interface
+// Task ATM Interface
 import java.util.Scanner;
 
 class BankAccount {
